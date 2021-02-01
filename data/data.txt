@@ -1,0 +1,62 @@
+{
+  "name" : null,
+  "password" : null,
+  "DoB" : null,
+  "weight" : 0.0,
+  "height" : 0.0,
+  "gender" : null,
+  "picture" : null,
+  "records" : [ {
+    "type" : "WATER",
+    "date" : 1588075320000,
+    "volume" : 240.0
+  }, {
+    "type" : "WATER",
+    "date" : 1588075320000,
+    "volume" : 240.0
+  }, {
+    "type" : "WATER",
+    "date" : 1588075380000,
+    "volume" : 240.0
+  }, {
+    "type" : "WATER",
+    "date" : 1588075380000,
+    "volume" : 240.0
+  } ],
+  "currentWeeklyGoal" : null,
+  "dailyGoals" : {
+    "2020-04-26T23:00:00.000+0000" : {
+      "goal" : 330.0,
+      "date" : 1587987085137,
+      "progress" : 0.0,
+      "completed" : false,
+      "points" : 10,
+      "type" : "DAILY"
+    },
+    "2020-04-27T23:00:00.000+0000" : {
+      "goal" : 500.0,
+      "date" : 1588075378488,
+      "progress" : 0.0,
+      "completed" : true,
+      "points" : 10,
+      "type" : "DAILY"
+    }
+  },
+  "points" : 10,
+  "currentDailyGoal" : {
+    "goal" : 500.0,
+    "date" : 1588075378488,
+    "progress" : 0.0,
+    "completed" : true,
+    "points" : 10,
+    "type" : "DAILY"
+  },
+  "averageDailyVolume" : 960,
+  "dailyVolume" : {
+    "2020-04-27T23:00:00.000+0000" : 960.0
+  },
+  "favouriteDrink" : "Water",
+  "weeklyGoalsMet" : 0,
+  "dailyGoalsMet" : 1,
+  "totalGoals" : 2
+}
